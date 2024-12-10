@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![ED lab manual Ex 5 Drawing v2_page-0001](https://github.com/user-attachments/assets/6093c59f-2903-468a-8ec2-211b37386177)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
